@@ -1,0 +1,1 @@
+ Je veux tester, que ce programme peut detecter avec precision. J'ai ajoute un point pour voir, s'il sait comment gerer ces choses.
