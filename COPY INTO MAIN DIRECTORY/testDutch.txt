@@ -1,2 +1,0 @@
-
-Ik wil testen dat dit programma nauwkeurig kan detecteren. Ik heb een punt toegevoegd om te zien of het weet hoe het met deze dingen om moet gaan.

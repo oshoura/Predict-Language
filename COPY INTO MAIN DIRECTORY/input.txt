@@ -1,9 +1,0 @@
-Unknown testDutch.txt
-Unknown testEnglish.txt
-Unknown testFrench.txt
-Unknown testGerman.txt
-
-German german1.txt
-French french1.txt
-English english1.txt
-Dutch dutch1.txt

@@ -1,0 +1,756 @@
+Aanbieding: Gratis modem bij DDS ADSL.
+Tot en met 31 December 2011 bieden we een gratis wireless modem bij alle nieuwe ADSL en VDSL aansluitingen.
+Meer informatie...
+	DDS Introduceert VDSL.
+Met DDS ADSL 40 heb je een VDSL verbinding met een downloadsnelheid van max 40 Mbps en een uploadsnelheid van max 4 Mbps voor slechts 19,95 per maand (incl btw). Geen 'verborgen' aansluit of afsluit kosten en een gratis wireless modem.
+Meer informatie...
+	Instant Webapps
+Altijd al je eigen blog, forum, wiki of content management systeem willen hebben, maar is het installatie proces nog te ingewikkeld voor je? DDS maakt het makkelijk met Instant Webapps
+
+Instant Webapps zijn door DDS uitgekozen populaire web applicaties - gebaseerd op PHP/MySQL - die je direct vanuit je eigen accountbeheer pagina gemakkelijk kunt installeren binnen je DDS webruimte.
+
+Hierbij is dus geen uitgebreide kennis van de PHP programmeertaal nodig. Wij regelen dus de volledige upload, installatie en basis configuratie voor je.
+Meer informatie...
+	Let op: Phishing pogingen
+Onlangst zijn er grote aantallen e-mail berichten verstuurd naar DDS klanten die tot doel hadden je gebruikersnaam en wachtwoord te achterhalen (ook wel phishing genoemd). Dit soort mailtjes zijn NIET van ons afkomstig . En we raden je aan deze bij ontvangst direct te verwijderen (of als spam via de webmail te rapporteren) en vooral niet te beantwoorden. Heb je toch gebruikersgegevens afgestaan per e-mail dan raden we je aan om onmiddelijk je wachtwoord te wijzigen in accountbeheer, en even contact met ons op te nemen.
+	Email naar SMS.
+De SMS functie in DDS webmail is uitgebreid. Je kunt op je mobiel een SMS notificatie ontvangen van binnenkomende e-mail. De criteria in welke gevallen je een SMS wilt ontvangen kun je in webmail opgeven onder opties en dan filters. Voor het gebruik van deze functie dien je wel over SMS tegoed te beschikken. Log in op accountbeheer voor het opwaarderen van je SMS tegoed.
+	SMS versturen via de webmail.
+Je kunt nu vanuit de DDS webmail en het adresboek gemakkelijk SMS berichten versturen naar alle 06 nummers binnen nederland. Bestaande klanten hebben 3 gratis smsjes gekregen om de dienst uit te proberen.
+
+Stel eerst in accountbeheer even je eigen 06 nummer in om sms berichten te kunnen versturen. Bestellen van SMS bundels kan ook via accountbeheer. Een smsje versturen kan al vanaf 10ct per bericht.
+	Online HTML Editor in Vdrive
+Toegevoegd aan DDS Vdrive is de mogelijkheid om html pagina's te bewerken met een online html editor. Je kunt dus in het vervolg vanaf iedere locatie met internettoegang je site aanpassen. Ook kun je nieuwe html pagina's aanmaken vanuit je vdrive. Gastgebruikers die schrijfrechten hebben in een map kunnen eveneens gebruik maken van de editor functie.
+	Gratis Digitaal fotoalbum bij DDS
+DDS introduceert een nieuwe applicatie waarmee je makkelijk foto's kunt publiceren op het net. Het online fotoalbum zit standaard bij het DDS Basispakket. Meer informatie...
+	PHP5 Ondersteuning
+DDS biedt als een van de eerste Nederlandse providers nu ook ook PHP versie 5 ondersteuning. Het upgraden naar PHP5 kost niets extra. Via je accountbeheer pagina kun je instellen of je PHP 4 of PHP 5 wilt gebruiken voor je homepage.
+
+Met PHP en MySQL heb je de mogelijkheid om je website te voorzien van allerlei interactieve applicaties en software. Denk hierbij aan content management systemen, forums, guestbooks en blogs.
+
+Je hebt de PHP en MySQL uitbereiding al vanaf EUR 2,75 per maand. Meer informatie...
+	Gratis virusscanning op e-mail
+DDS biedt nu ook gratis virusscanning. Dit betekent dat alle e-mail die je ontvangt op je DDS e-mailadres eerst door een virusfilter gaat op de DDS server. Met virusscanning wordt het DDS basispakket nog completer. Het DDS virusfilter is gratis net als het DDS spamfilter. Meer info over virusscanning
+	DDS Domeinnaamregistratie
+DDS biedt de mogelijkheid om een domeinnaam te registreren. Met je eigen domeinnaam ben je bereikbaar per e-mail op alles@jouwdomein.nl en je website is dan bereikbaar op www.jouwdomein.nl
+
+Als je een domein bij DDS registreert krijg je het eerste jaar 10 euro korting. Je betaalt voor een .nl domein dus slechts EUR 8,- voor het eerste jaar!
+
+Registreren van een domeinnaam kan hier...
+
+Nieuwe technologische vindingen en ontwikkelingen veranderen ons leven voortdurend.
+In de industrie worden onophoudelijk veranderingen doorgevoerd,
+die in nieuwe producten, in verbetering van productieprocessen, in kwaliteitsverhoging
+en in verlaging van productiekosten resulteren. Denk bijvoorbeeld aan de
+computer. Had deze in de jaren zestig nog de afmetingen van een schoollokaal, nu
+beschikken wij over PC's met veel meer mogelijkheden, die desondanks in de palm
+van een hand passen.
+Al die vernieuwingen ontstaan niet vanzelf. Ze zijn het resultaat van veel onderzoek en
+ontwikkelingswerk. Deze vormen bij een groot aantal ondernemingen een aanzienlijke
+kostenpost.
+Vooruitziende ondernemers zien deze kosten echter vooral als investeringen in kennis.
+Deze investeringen kunnen terugverdiend worden doordat ze de onderneming een
+voorsprong op de eigen markt verschaffen. Daarvoor is uiteraard nodig dat het onderzoek
+en ontwikkelingswerk vruchten afwerpen. De investeringen in kennis leveren
+alleen dan voordeel op wanneer er nieuwe producten worden ontwikkeld waarvoor
+een markt bestaat of wanneer er verbeteringen worden gerealiseerd aan bestaande
+producten die duidelijke voordelen bieden.
+
+Het ontwikkelen van dergelijke producten of processen biedt echter geen
+zekerheid dat de onderneming zelf de vruchten kan plukken van de gedane
+investeringen. De verkregen voorsprong op de concurrentie moet veilig gesteld
+worden door de ontwikkelde producten en processen goed te beschermen. Alleen dan
+is zeker dat de vindingen en ideeen slechts door anderen kunnen worden toegepast
+wanneer daarvoor uitdrukkelijk toestemming is verleend en een vergoeding voor die
+toestemming is overeengekomen. Grote multinationale ondernemingen beschikken
+vaak over een eigen octrooiafdeling met octrooigemachtigden die in dienst zijn van
+de onderneming. Deze zorgen voor het verwerven en in stand houden van een doeltreffende
+bescherming van de vindingen en ideeen van zo'n onderneming. Bedrijven
+zonder eigen octrooigemachtigde kunnen hiervoor de hulp inroepen van een van de
+zelfstandige octrooibureaus. De aan deze bureaus verbonden octrooigemachtigden
+treden op als onafhankelijke adviseurs van hun opdrachtgevers. Zij verzorgen alle
+procedures voor een afdoende bescherming van producten, processen, kennis en
+ideeen. Zowel in Nederland als daarbuiten.
+Door kennis en ideeen doeltreffend te beschermen, wordt voorkomen dat een
+concurrent met een merk, een model, een product of een vinding 'aan de haal'
+kan gaan. Het bedrijf dat zijn kennis en ideeen wettelijk heeft beschermd,
+krijgt hiervoor gedurende een bepaalde periode een monopolie. Dit is een alleenrecht
+waarmee het de toepassing van de beschermde kennis en ideeen door de concurrent
+kan verbieden.
+Kennis en ideeen kunnen op verschillende manieren beschermd worden.
+* Octrooien (ook wel bekend als 'patenten') kunnen aangevraagd
+worden voor technische vindingen: nieuwe en verbeterde
+(toepassingen van) producten, maar ook voor nieuwe en
+verbeterde productieprocessen.
+* Merken kunnen worden gedeponeerd voor het beschermen
+van de aanduidingen van producten en dienstverleningen
+(merknamen, logo's, vignetten e.d.).
+* Modelbescherming kan worden verkregen voor producten met
+een nieuw uiterlijk, een eigen karakteristieke vormgeving.
+In alle gevallen gaat het om een wettelijke bescherming. Dat betekent in de praktijk
+dat de bescherming veelal pas een feit is wanneer een officiele procedure met succes
+is doorlopen. Een belangrijk vereiste hierbij is dat de procedure voor het verkrijgen
+van de bescherming, althans bij octrooien en modellen, moet zijn gestart voordat
+het idee of de vinding bekend gemaakt kan worden.
+Het is de octrooigemachtigde die hierbij optimaal kan adviseren. Hij bereidt de
+procedure tot in alle details voor en begeleidt deze professioneel.
+
+De waarde van een octrooi wordt dagelijks bewezen. Een van de talloze voorbeelden:
+een Nederlands bedrijf ontwikkelt een manier om vervuilde grond
+goedkoper en beter te zuiveren. Een zeer succesvol proces, dat niet alleen goed
+aanslaat op de markt, maar dat bovendien de interesse van de concurrentie opwekt.
+Gelukkig is het bedrijf zo verstandig geweest de eigen belangen goed te beschermen.
+Namens de onderneming diende een octrooigemachtigde tijdig een octrooiaanvrage
+voor dit proces in. Het bedrijf beschikt nu over een middel waarmee het concurrenten
+gedurende langere tijd effectief kan verhinderen het succesvolle proces toe te passen.
+Het bedrijf kan ook extra inkomsten verkrijgen door aan andere bedrijven licenties te
+verlenen.
+
+Ook bij de keuze van een naam of een visueel onderscheidingsteken voor
+een product of een dienst bewijst het alleenrecht zijn economische waarde.
+Toen een jong bedrijf de markt opging met een nieuwe dienst, gaf het hieraan
+bekendheid door het rondsturen van fraaie, dure brochures. De geadresseerden
+werden volgens plan bereikt. Desondanks werd de campagne een fiasco.
+Het merkrecht voor de naam die het bedrijf aan het dienstenpakket had gegeven, bleek
+namelijk eigendom te zijn van een concurrent. Het startende bedrijf moest daarom
+een andere naam kiezen en al het kostbare drukwerk kon de prullenmand in.
+Een octrooigemachtigde had vooraf gemakkelijk kunnen uitzoeken of de naam al
+bestond en beschermd was. Het bedrijf had zich veel kosten en moeite kunnen
+besparen door tijdig advies in te winnen.
+Voor producten met een nieuw uiterlijk kan modelbescherming worden verkregen.
+Een sierlijk uitgevoerd tuinzitje van een tuinstoelenfabrikant gooide hoge ogen
+bij de consument. Namaak bleef dan ook niet lang uit. Concurrenten brachten
+nagenoeg identieke tuinmeubelen op de markt. Omdat zij geen geld in ontwikkelingswerk
+behoefden te steken, konden zij de nagemaakte stoel tegen aanzienlijk lagere
+prijzen aanbieden. Alleen doordat de tuinstoelenfabrikant via een octrooigemachtigde
+tijdig voor modelbescherming had gezorgd, kon hij doeltreffend tegen de namaak
+optreden. Zijn concurrenten moesten hun tuinmeubilair uit de winkels terughalen.
+Zij werden bovendien veroordeeld tot een forse schadevergoeding.
+
+Wanneer bescherming is verkregen, kan door middel van licenties aan anderen
+het recht worden verleend om - tegen betaling! - van de beschermde kennis
+gebruik te maken.
+Door het geven van licenties - bijvoorbeeld aan bedrijven buiten het eigen marktgebied
+- kan een onderneming aanzienlijke inkomsten verkrijgen. Ook het zelf verwerven
+van een licentie kan voor een bedrijf buitengewoon interessant zijn. Immers, men
+koopt de benodigde kennis in en behoeft daardoor de kosten van het noodzakelijke
+onderzoek en ontwikkelingswerk niet zelf te dragen.
+Inzicht, ervaring en deskundigheid, zoals de octrooigemachtigde die biedt, zijn echter
+in alle gevallen absolute voorwaarden voor het sluiten van een goede licentie-overeenkomst.
+Nog steeds gebeurt het dat een bedrijf op eigen houtje een licentie neemt voor
+de Nederlandse markt, op basis van een octrooirecht dat achteraf niet voor ons land
+blijkt te gelden! De licentievergoedingen ('royalties') zijn in zo'n situatie weggegooid
+geld. Het bedrijf had de vinding ook zonder deze licentie-overeenkomst mogen
+toepassen.
+
+De concurrent zit nooit stil. Daarom moet iedere ondernemer de activiteiten
+van zijn concurrenten in binnen- en buitenland nauwlettend volgen.
+Het laten 'bewaken' van octrooiaanvragen en model- en merkregistraties
+van de concurrentie is hierbij een waardevol middel. Informatie over de richting
+die de concurrentie gekozen heeft in zijn ontwikkeling van nieuwe producten komt
+zo vroegtijdig beschikbaar. Onaangename verrassingen worden daardoor voorkomen.
+De octrooigemachtigde is de aangewezen persoon voor de systematische bewaking
+van deze rechten van derden. Via deze bewaking kan in een vroeg stadium bekend
+worden dat een concurrent een octrooiaanvrage ingediend heeft voor een product dat
+erg lijkt op hetgeen men op dit moment zelf aan het ontwikkelen is. In dat geval kan
+de octrooigemachtigde beoordelen of het zin heeft om de geldigheid van dit octrooirecht
+aan te vechten. De octrooigemachtigde kan echter ook adviseren het eigen
+product zodanig te veranderen, dat het buiten de beschermingsomvang van het
+octrooirecht van de concurrent valt.
+De octrooigemachtigde is een onafhankelijk, wettelijk bevoegd specialist op
+het terrein van octrooien, merken en modellen. Als beedigd deskundige werkt
+een octrooigemachtigde in een vertrouwensrelatie met de opdrachtgever en
+garandeert hij een absolute geheimhouding. De octrooigemachtigde heeft zowel een
+academisch technische opleiding als een gerichte juridische opleiding gevolgd.
+Daardoor heeft hij kijk op de technische aspecten van vindingen en is hij vertrouwd
+met alle juridische procedures om vindingen en ideeen te beschermen.
+De octrooigemachtigde adviseert over een effectieve bescherming van kennis, producten
+en ideeen. Hij treedt op namens zijn client en verzorgt de procedures voor het verkrijgen
+en in stand houden van bescherming bij het Octrooicentrum Nederland, bij het Europees
+Octrooibureau, bij het Benelux Merken- en Modellenbureau en bij het Europees
+Merkenbureau. In samenwerking met collega-gemachtigden uit andere landen zorgt
+hij tevens voor doeltreffende bescherming voor landen buiten Europa.
+In de praktijk onderzoekt de octrooigemachtigde allereerst of bescherming van een
+idee zinvol en haalbaar is. Bovendien adviseert hij over de meest geschikte vorm
+van bescherming en gaat hij - samen met de opdrachtgever - na in welke landen
+bescherming nodig is.
+Octrooigemachtigden kunnen ook de geldigheid van octrooiaanvragen, octrooien,
+merken- en modelregistraties van concurrenten onderzoeken en hierover een gefundeerd
+advies uitbrengen. Opdrachtgevers komen zo te weten welke kennis en ideeen
+door concurrenten zijn beschermd. Zij kunnen zo voorkomen dat zij onbedoeld in
+conflict komen met bestaande rechten van anderen.
+    Ontstaansgeschiedenis
+
+    Amsterdam is uit de zee geboren -als een vissersdorp op een bult in 't moeras in de middeleeuwen- en Amsterdam is door de zee groot geworden toen het zijn koopvaarders naar alle windstreken uitzond. Amsterdam is een havenstad van nature. Dat wou de stad met alle geweld blijven, ook toen de natuur begon tegen te werken. Pampus verzandde.
+
+
+    Er moest een andere verbinding met de zee komen. In de eerste helft van de negentiende eeuw, na de Franse overheersing, groef Amsterdam zich het Groot Noord-Hollands kanaal. Maar die waterweg naar Den Helder bleek al gauw te lang, te nauw en te omslachtig te zijn. Toen moest men het wel aandurven voor de kortste weg te kiezen: van het "IJ" pal west. De technische mogelijkheden anno 1850 lieten het doorgraven van de duinenrij toe. De hoofdstad kreeg haar maritieme levensader..., het Noordzeekanaal. Kap van 1880 Zo bleef Amsterdam de havenstad die het van nature is. Een stad die niet te beroerd is terug te kijken op een groots en meeslepend verleden, ook in de zeevaart. Amsterdam heeft het mooiste scheepvaartmuseum ter wereld, dat nergens passender gehuisvest kan zijn dan juist in 's Lands Zeemagazijn, waar ooit Michiel de Ruyter zijn schepen liet bevoorraden.
+
+    De werf 't Kromhout ontstond midden in de 18e eeuw op een historische Amsterdamse zeedijk, die nu op de platte grond te vinden is als Hoogte Kadijk. Het stadsgezicht is daar duchtig aan het veranderen. Pakhuizen werden moderne woningen, percelen werden gesloopt en weer opnieuw opgebouwd. Maar de werf 't Kromhout kon op het nippertje van de slopershamer worden gered, zodat de markante tweevoudige overkapping, die ook al meer dan een eeuw oud is, behouden kon blijven als een van de sfeer bepalende elementen in de vernieuwde buurt.
+
+    Naamgeving
+
+    Waarom heet 't Kromhout 't Kromhout? Simpel: omdat Neeltje Hendrikse de Vries op 11 mei 1757 de grond kocht voor haar man, scheepstimmerman Doede Jansen Kromhout. Zoals gebruikelijk in die tijd kreeg de werf de naam van de eigenaar. Een kromhout is ook een krom stuk hout: liefst zoals in de boomstam gegroeid. Wie, tot ver in de negentiende eeuw, een schip wilde bouwen had er vele nodig als spanten voor het bijeenhouden van de planken. Ooit zo 'n bijzonder stuk hout gezien? In werfmuseum 't Kromhout worden enkele fraaie exemplaren bewaard. Het museum vertelt op beeldende manier hoe zich de scheepsbouw sinds de gouden eeuw ontwikkeld heeft: eerst was er alleen hout, toen hout met metalen versterking (compositiebouw) en vervolgens louter metaal. Terwijl Van Amerongen op de aanpalende helling oude eigentijdse schepen onder handen heeft, kan de museumbezoeker de historie van de Amsterdamse scheepsbouw in al zijn aspecten volgen. 
+
+	
+	Museum Collectie
+
+Collectie
+Nederland was eens de grootste scheepsbouwnatie ter wereld. Vooral in de vorige eeuw zijn de meeste werven verdwenen en weinig is hiervan nog over. museumhal
+In het gebied rond de werf 't Kromhout waren er rond 1900 nog 30 scheepswerven. In 2000 nog drie.
+Er zijn er thans nog twee van over, de werf Koning William en de werf 't Kromhout. Hiermee is nagenoeg deze tak van het Industrieel erfgoed uit Amsterdam verdwenen.
+Het bestuur en de medewerkers van het museum, allen vrijwilligers, doen er dan ook alles aan om het laatste beetje erfgoed te behouden. Zij zijn dan ook altijd in de weer om de collectie te verbeteren, te restaureren en, zo veel als mogelijk, in werking te houden.
+
+Industrieel Erfgoed
+Het museum "Werf 't Kromhout" is een werkend museum. De Vereniging "Vrienden van de Werf 't Kromhout" wil de bezoeker kennis laten nemen van het Amsterdams Cultureel en Industrieel erfgoed. 30 pk Kromhout
+Zij vindt het van groot belang dat de bezoeker van 't Kromhoutmuseum een indruk krijgt van de geschiedenis van de Eilanden, de industrie, de Werf 't Kromhout, de scheepsbouw en de activiteiten van de Goedkoopen daarin. Eveneens toont zij een overzicht van verschillende producten waarvan de eerste ontwikkeling op de werf is geweest en later is voortgezet in de Kromhout Motoren Fabriek in Amsterdam-Noord. In de vaste collectie staat de eerste en eens zo beroemd geworden 12 pk Petroleummotor uit 1904 naast vele andere type Kromhout-motoren die daarna nog volgden. Ook motoren van Rennes, Industrie, Heesen en vele andere merken zijn in de collectie aanwezig. 
+
+De geschiedenis van KROMHOUT.
+
+In afgelopen jaren is het Kromhoutarchief enorm uitgebreid met gegevens uit de vroegere administratie van de KMF zoals foto's, folders en levering van motoren, (vracht)auto's, bussen etc. Ook mocht ik vele foto's over de werknemers ontvangen. Het werd tijd voor een nieuw boek wat nu, in 2009, gereed is gekomen.
+
+        Zojuist verschenen!
+
+De Goedkoopen hebben ruim 100 jaar in belangrijke mate bijgedragen in de industriele ontwikkeling van Amsterdam. Wereldwijd bevoeren hun schepen het water, veelal als aandrijving voorzien van een Kromhoutmotor.
+De schrijver neemt u mee naar de ontwikkeling van Amsterdam in de 17e eeuw, de aanleg van de Nieuwe Zeedijk, de latere Hoogte Kadijk met de Nieuwe Vaart, met o.a.de daar gevestigde werf "'t Kromhout".
+De geschiedenis van de familie Goedkoop van Turfschipper tot Reder, Scheepsbouwmeester en Motorfabrikant. De scheeps- en motorenbouw. De Kromhout auto- en vliegtuig-motor-industrie.
+Dit alles in 200 pagina's met ruim 200 zwart-wit foto's en afbeeldingen. Nog steeds varen er schepen, gebouwd op deze beroemde werf, maar nog meer in aantal zijn de geweldige Kromhoutmotoren.
+
+Dit boek mag niet in uw boekenkast ontbreken.
+Formaat 21 x 22 cm.
+Verkoopprijs 14,50 euro.
+Te bestellen bij: J Mannaert
+Ook verkrijgbaar in het Kromhoutmusem.
+
+
+Uitbreiding van de Collectie 2008
+
+Ook dit jaar mocht het Kromhoutmuseum weer enige stukken aan de collectie toevoegen.
+Zo is de nog prachtige Kromhout-motor van het type 2-K-3 (35 EPK) inmiddels weer volop draaiend te zien.
+Van de voormalige Kromhout Fabriek in Amsterdam-Noord, (thans Stork) is de gestileerde, 41/2 meter hoge krukas welk bij het 100 jarig bestaan van de fabriek door het personeel aan de directie is geschonken en daar 40 jaar langs de wallekant als symbool heeft gestaan, thans over gebracht naar het Kromhoutmuseum. Dit monument heeft wederom een plaats langs het water gekregen. Langs varend kunt u deze dus zien staan.
+
+Uit de voormalige directiekamer van de Kromhout Motoren Fabriek zijn vier prachtige bronzen panelen uit 1925, voorstellende de Kromhoutwerf, het beroemde schip "Werf 't Kromhout 3", de smederij, draaierij en de Kromhout Motoren Fabriek, naar het Kromhoutmuseum overgebracht en hebben een mooie plek in de motorenhal verkregen.
+
+Al met al een paar prachtige aanwinsten voor het museum.
+De goede lezer heeft begrepen dat Stork uit de fabriek trekt. De vraag is nu wat daar mee gaat gebeuren. Gaat dit prachtige Industrieel erfgoed na 100 jaar tegen de vlakte?
+H.M.
+Openingstijden museum:  elke dinsdag van 10.00 tot 15.00 uur.
+
+
+Wie heeft er een "kleine" verzameling op het gebied van de scheepsbouw of (scheeps)motortechniek en wil deze voor een aantal maanden exposeren? Neem eens contact met ons op. Vereniging
+Vrienden van de werf 't Kromhout
+
+
+De werf en het museum.
+De scheepsbouwactiviteiten op de "werf 't Kromhout" werden in 1968 beeindigd.
+Sinds 1973 wordt het complex "Werf 't Kromhout" beheerd door de Stichting "Werf 't Kromhout" die het in 1973 van de ondergang redde. Ook na 1973 bedreigde de slopershamer het complex meerdere malen. Hetzij door de steeds meer oprukkende stadsvernieuwing, danwel door verval vanwege achterstallig onderhoud.
+De scheepswerf voldeed niet meer aan de huidige milieueisen. Na laatstelijk wederom aan de dreiging van de slopershamer te zijn ontkomen, werd er een restauratieplan gemaakt. De Stichting "Werf 't Kromhout" werd bij Stadsherstel b.v. ondergebracht welk de restauratie uitvoerde. De scheepswerf werd opnieuw ingericht. In augustus 2001 werd het museum heropend.
+
+De in het museumaanwezige collectie is eigendom en in beheer bij de Vereniging "Vrienden van de Werf 't Kromhout". Enkele zaken zijn in bruikleen. Vrijwilligers zijn voortdurend bezig de collectie op te knappen, het in bedrijf brengen van de motoren en het inrichten van de expositieruimten. Daarnaast vraagt ook de oude smederij en de bibliotheek de nodige aandacht.
+Een educatieve presentatie en de collectie geeft een inzicht over de ontwikkeling van de "Eilanden", de scheepswerf, scheepsbouw, scheepsvoortstuwing, Kromhoutmotoren en de Kromhoutmotorenfabriek. Verder zijn er diverse motoren van andere fabrikanten.
+
+Instandhouding.
+De Vereniging heeft weinig financiele middelen. Van contributies van de leden van "De Vereniging van Vrienden van de Werf 't Kromhout" en donaties kunnen de hoogst noodzakelijke dingen worden aangeschaft om het museum op gang te houden. Zij hoopt meer leden, donateurs en vrijwilligers te kunnen aantrekken om het museum, en daarmee het culturele erfgoed in stand te houden.
+Je bent een "Vriend" door storting van minimaal EUR 20,- op girorekening 3625700. Hiervoor ontvang je het kwartaalblad en gratis toegang tot het museum.
+
+Ben je al lid? Maak of geef, je buurman of vriend een abonnement van onze vereniging!
+
+Het adres is: Hoogte Kadijk 147, 1018 BJ Amsterdam. Tel.: 020 - 62 76 777 
+Nederlandse startershulp
+Edit
+
+    * History
+
+Contents
+[show]
+
+    * 1 Over Wiki's
+          o 1.1 Wat is een wiki?
+    * 2 Aan het werk
+          o 2.1 Je Wiki account creeren.
+    * 3 De Wiki gebruiken
+          o 3.1 Artikels vinden
+          o 3.2 Recente Wijzigingen
+          o 3.3 Op de veranderingen van een artikel letten
+          o 3.4 Weten wanneer een pagina is verandert
+          o 3.5 Inloggen
+          o 3.6 Je Email, Wachtwoord, etc. veranderen
+    * 4 Bewerken
+          o 4.1 Een Wiki pagina veranderen
+          o 4.2 Een bewerking Ongedaan Maken
+          o 4.3 Tekst formatteren
+          o 4.4 Naar een andere pagina op de Wiki linken
+          o 4.5 Een nieuwe pagina aanmaken
+          o 4.6 Pagina's Hernoemen (verplaatsen)
+          o 4.7 Sjablonen gebruiken
+          o 4.8 Een afbeelding toevoegen
+          o 4.9 Pagina's catoriseren
+    * 5 Wat nu
+
+Terwijl veel mensen dat wel denken, hoef je geen technologiewizard te zijn om
+een wiki te bewerken. Als je een word tekstverwerker kan gebruiken, dan kan je
+vaak ook de Wiki aanpassen.
+
+Volg gewoon deze instructies en je zal al snel kunnen bewerken!
+
+Voor je begint...
+    Je wil misschien op onze online demo's pagina voor video demonstraties van
+alle Wikia basis en veel, veel meer - zie Help:Video demos! 
+
+Over Wiki's
+Wat is een wiki?
+
+Een wiki is een website die je kan bewerken. Het woord komt van "wikiwiki",
+een Hawaiaans voor "snel". Wiki's zijn ontworpen zodat je snel, en samen met
+andere aan een wiki kan werken, daarom is het mogelijk veel inhoud snel op te
+bouwen.
+
+Vind meer uit over de achtergrond van wiki's op Wikipedia.
+Aan het werk
+Je Wiki account creeren.
+
+File:Create an account.pngDeze "creeer een account knop (omcirkelt met rood)
+is aan rechtboven aan de pagina, naast de "Login" knop. Terwijl de meeste
+Wikia wiki's anoniem bewerkt kan worden, kan een account ervoor zorgen dat je
+je bewerkingen kan volgen, en het duurt maar een paar minuten.
+
+   1. Klik op de "maak een account" link.
+   2. Klik op de link rechts bovenaan deze pagina.
+   3. Kies een gebruikersnaam en een wachtwoord in de nieuw geopende box.
+   4. Geef je geboortedatum. Dit is een veiligheids maatregel maar ook een weg
+manier om de integriteit van de site te behouden, terwijl je je aan de
+federale regels houd.
+   5. Type het woord dat in ziet in de "captcha" afbeelding. Dit laat ons zien
+dat je een echt persoon bent. Het is ook slim om je emailadres in te voegen. 
+
+Als je ons geen bestaand email adres geeft kan je je account's wachtwoord niet
+terugvragen.
+
+        Meer... Waarom een account maken? 
+
+De Wiki gebruiken
+Artikels vinden
+
+File:Search box.pngZoek box
+
+Alle pagina's (op de Monaco skin) hebben een zoek box links bovenaan. Type
+gewoon je zoekterm hier, en klik op de zoek pijl. Een alternatief is zoek
+suggestie, begin met typen in de zoek box en het zal proberen te gokken naar
+welke artikels je zoekt.
+
+        Meer... Wikia doorzoeken 
+
+Recente Wijzigingen
+
+Recente wijzigingen is een van de meest belangrijke pagina's op een Wiki. Het
+bevat een lijst met alle bewerkingen die gemaakt worden, verteld je wie de
+veranderingen gemaakt heeft, en laat je de samenvatting die ingetypt is zien.
+Dus, het is een geweldige manier om te zien wat er gebeurt op je Wiki, en
+welke pagina's het meest actief zijn.
+
+Je kan naar de recente wijzigingen pagina gaan door op "Recente wijzigingen"
+te klikken in de toolbox links, of door naar Special:RecentChanges te gaan. Je
+kan ook op elke Wiki naar de recente wijzigingen gaan door
+Special:RecentChanges te typen na het /wiki/ deel van de Wikia URL. Voor een
+voorbeeld, om naar de Recente Wijzigingen te gaan van de Recipes Wiki, dan zou
+je http:/recipes.wikia.com/wiki/Special:RecentChanges typen.
+
+        Meer... Recente wijzigingen informatie 
+
+Op de veranderingen van een artikel letten
+
+Iedere pagina heeft een "geschiedenis" pagina die eraan vast zit. Deze bevat
+een lijst met gebruikersnamen van iedereen die de pagina bewerkt heeft, en
+verteld je wat ze hebben bewerkt. Het geeft ook links naar oude versies; niets
+gaat verloren wanneer een pagina is verandert, zodat je altijd vorige versies
+kan terughalen. Om de geschiedenis van een pagina te bekijken, zoek naar de
+"geschiedenis" link boven elk artikel.
+
+        Meer... Hoe Wiki werkt 
+
+Weten wanneer een pagina is verandert
+
+File:Watch button.pngDe volg knop heeft een afbeelding van een verrekijker
+ernaast. Je kan elke pagina "volgen" door hem toe te voegen aan een lijst van
+pagina's van jouw gebruikersnaam. Om dit te doen, klik op de "volgen" link
+bovenaan het artikel dat je wilt volgen. Je kan je voorkeuren veranderen zodat
+er een email naar je gestuurd wordt wanneer een gevolgde pagina wordt bewerkt.
+
+        Meer... Wikia volgen 
+
+Inloggen
+
+File:Login button.pngDe login knop (omcirkelt in rood) Klik op de "log in"
+link bovenaan welke pagina dan ook. Dit opent een box waar je je
+gebruikersnaam en wachtwoord kan invullen.
+
+Tip: Je wil misschien de "Onthoud mij" box niet aanvinken als je een publieke
+computer gebruikt.
+
+Note: Je moet cookies aan hebben staan om in te loggen bij Wikia (voor meer
+informatie, zie onderstaande link).
+
+        Meer... Log in problemen? 
+
+Je Email, Wachtwoord, etc. veranderen
+
+File:My preferences.pngOm je email adres, wachtwoord, etc. te veranderen, klik
+op "Meer" en kies "Mijn voorkeuren" van het drop-down menu dat verschijnt.
+Bijna alles dat je zou willen veranderen kan gevonden worden in je voorkeuren.
+Om daar heen te gaan:
+
+   1. Klik op de "MEER" knop (tussen "Volglijst" en "Logout" links).
+   2. Kies "Mijn voorkeuren" van het drop-down menu dat verschijnt. Jek an ook
+Special:Preferences bezoeken. 
+
+Als de wachtwoord reset niet werkt, bezoek a.u.b. Contact Wikia voor hulp.
+
+        Meer... Voorkeuren uitgelegd 
+
+Bewerken
+Een Wiki pagina veranderen
+
+File:Edit button.pngDe "Bewerk" knop Een pagina bewerken is gemakkelijk:
+
+   1. Klik op de Bewerken" link boven welk artikel dan ook. Als je dit doet
+zal een scherm openen dat eruit ziet als een tekstverwerker document.
+   2. Type je veranderingen in de tekst box. Tip:Het is een goed idee om je
+bewerking ter controle bekijken, en dan pas je bewerkingen op te slaan, scroll
+naar beneden en vind de "Pagina opslaan" knop en klik op pagina opslaan. Dit
+staat je toe om fouten te veranderen voordat ze opgeslagen worden op de Wiki. 
+
+Er is geen manier om een Wiki te breken, dus voel je vrij om meteen
+veranderingen te gaan maken.
+
+        Meer... Bewerk tips 
+
+
+Een bewerking Ongedaan Maken
+
+Slechte inhoud van de Wiki af houden is net zo belangrijk als goede inhoud toe
+te voegen. Daarom is het belangrijk om te weten hoe je een vorige versie van
+een artikel terugdraait.
+
+Elke bewerking die gemaakt wordt wordt opgeslagen op een Wiki, dat houd in dat
+het makkelijk is om een oude versie terug te halen na een fout of na
+vandalisme. Om een bewerking te veranderen voor een artikel, ga naar een
+artikel zijn "geschiedenis" pagina. Elke datum/tijd staat in een lijst op de
+pagina is een link naar een verschillende versie van dat artikel. Klik gewoon
+op welke versie je wil, en klik op bewerk, gevolgd door de opslaan knop. Wiki
+amdinistrators hebben een shortcut voor dit, en kunnen de meeste recente
+wijzigingen "rollbacken (ongedaan maken)".
+
+        Meer... Ongedaan maken en Rollback 
+
+Tekst formatteren
+
+File:Bold italic buttons.JPGJe kan ook tekst dikgedrukt en schuin maken door
+de tekst te selecteren en op de 'b' en 'i' knoppen bovenaan het bewerk gebied
+aan te klikken.
+
+    * Dikgedrukt: Omgeef een woord met drie enkele citaat tekens ('''). 
+
+    * Schuingedrukt: Gebruik twee citaat tekens (''). 
+
+    * Het samenvoegen: Je kan tekst dikgedrukt en schuingedrukt maken met vijf
+    * citaat tekens ('''''). 
+
+        Meer... Trendy formatteren 
+
+
+Naar een andere pagina op de Wiki linken
+
+Om naar een andere pagina te linken, dan moet je de pagina's titel tussen
+dubbele vierkante haken plaatsen. Om te linken naar de pagina "Voorbeeld", zou
+je [[Voorbeeld]] typen.
+
+Zo gauw je weet hoe je naar andere Wiki pagina's moet linken, dan ben je klaar
+om the haak truc te gebruiken.
+
+
+Een nieuwe pagina aanmaken
+
+File:Inputbox.pngInputbox van Recipes Wiki Om een nieuwe pagina te maken kan
+je vier basis methoden gebruiken:
+
+    * Klik op een rode (gebroken) link. Een gebroken link is een link naar een
+    * pagina die (nog) niet bestaat op de Wiki.
+    * Maak een rode link in een artikel door een woord in te sluiten met
+    * dubbele vierkante haakjes, en klik op opslaan. Op de rode link klikken
+    * leid je naar de nieuwe pagina.
+    * Gebruik een inputbox -- een artikel creatie box die geplaatst kan worden
+    * op de Wiki's hoofdpagina.
+    * Gebruik Special:CreatePage (info) 
+
+Onthoud om je onderwerp te zoeken voor je een nieuwe pagina maakt, dit is
+belangrijk op grote Wiki's omdat er grote kans is dat het onderwerp al gemaakt
+is door iemand anders en dus al bestaat.
+
+        Meer... Nieuwe pagina's uitgelegd 
+
+Pagina's Hernoemen (verplaatsen)
+
+File:Move page.pngNaar deze pagina zal je doorverwezen worden nadat je op de
+"Hernoemen" knop klikt. Elke ingelogde gebruiker kan pagina's hernoemen. Om
+dit te doen, klik op de "hernoemen" link bovenaan het artikel:
+
+   1. Klik op "hernoemen".
+   2. Type de correcte titel in
+   3. Klik op "pagina hernoemen". 
+
+Note: Het is een goed idee om uit te leggen waarom je hem verplaatste in de
+gegeven box.
+
+        Meer... Een bewegende ervaring... 
+
+Sjablonen gebruiken
+
+Een sjabloon is een pagina met tekst die klaar voor gebruik is op veel
+pagina's zonder dat je het iedere keer hoeft te typen. Het ziet eruit als een
+normale pagina, maar de titel begint met "Sjabloon:". Sjablonen zijn handig
+voor inhoud die aan veel pagina's op de Wiki ingevoegdm oet worden, omdat ze
+je de tijd en moeite besparen om dezelfde woorden en Wiki code steeds weer te
+typen.
+
+Om een sjabloon ge gebruiken, hoef je alleen maar de titel te typen tussen
+krullige haakjes. Dus {{naam}} voegt de tekst toe van de pagina Sjabloon:Name.
+
+Sjablonen kunnen erg complex worden, maar ze zijn gewoon pagina's die veel
+gebruikt worden d.m.v. een simpele vorm.
+
+        Meer... Sjabloon basis 
+
+Een afbeelding toevoegen
+
+File:Upload button.pngUpload link in de toolbox Er zijn drie manieren om een
+afbeelding toe te voegen:
+
+    * Upload het naar de Wiki door de upload link in de toolbox. Je kan dan
+    * een afbeelding van je computer kiezen, en hem opslaan op de Wiki. Dan
+    * kan je het [[Bestand:Naam.png]]. te typen. 
+
+    * Voeg een afbeelding toe terwijl je een pagina bewerkt. Klik gewoon op de
+    * upload knop Bestand:Button wmu.png en je zal een formulier zien om je
+    * afbeelding te uploaden en in te voegen. Zie Help:Add Image voor meer
+    * over deze methode. 
+
+File:Importfreeimages.pngImporteer Gratis Afbeeldingen zoek resultaat lijst
+
+    * De Importeert Gratis Afbeeldingen Knop: Importeer gratis afbeeldingen
+    * staat jou toe om gratis gelicenseerde flickr afbeeldingen toe te voegen
+    * zonder dat je je Wiki verlaat! Alles wat je hoeft te doen is te gaan
+    * naar Special:Importfreeimages en type waar je naar zoekt in de zoek box.
+    * Klik op zoek en thumbnails van Creative Commons licensed flickr
+    * afbeeldingen verschijnt. Klik op de (import dit) link onderaan een
+    * afbeelding om hem up te loaden op de Wiki. 
+
+        Meer... Hoe upload en weergeef ik een afbeelding? 
+
+Pagina's catoriseren
+
+Categorieen worden op dezelfde manier toegevoegd als hoe je links toevoegd.
+Voeg gewoon [[Categorie:Naam]] toe onderaan de pagina. Als je wil linken naar
+een categorie, en niet de pagina aan de categorie wil toevoegen, dan moet je
+een dubbelepunt toevoegen aan de link: [[:Categorie:Naam]].
+
+        Meer... Categorieen in de diepte 
+
+
+Wat nu
+
+Er zijn veel plaatsen waar je heen kan gaan voor hulp op Wikia. Als je nog
+niet de video demo's hebt gezien, bekijk ze op Help:Video demos. Ook, veel
+Wiki's hebben een forum waar je vragen kan stellen aan admins en reguliere
+bijdragers. Als alternatief kun je de wijdere Wikia community vragen stellen
+op het Central Wikia forums of op de Nederlandse Centrale Wikia forums. Als je
+meer informatie wil, zie Contact met Wikia. 
+Passagiers wegbrengen
+
+Schiphol heeft speciale stop- en parkeerplaatsen aangelegd voor de snelle wegbrengers en de uitzwaaiers.
+
+Houdt u bij het wegbrengen van passagiers in elk geval rekening met:
+
+    * de tijd die u nodig hebt om te parkeren
+    * de inchecktijd voor de passagiers
+    * eventuele extra tijd om te winkelen
+
+
+Afzetten
+
+Als u alleen even iemand wilt afzetten, kan dat voor de deur. Vanaf de afslag 'Schiphol' (op de A4) volgt u de borden 'Vertrekhal'. U komt dan op de weg die voor de drie vertrekhallen langs loopt. Hier staat op borden aangegeven welke luchtvaartmaatschappij zich in welke vertrekhal bevindt. Op deze weg mag alleen worden gestopt om passagiers te laten uitstappen en bagage uit te laden. U kunt hier niet parkeren.
+
+Het adres voor uw navigatiesysteem is "vertrekpassage, Schiphol"
+Uitzwaaien
+
+Wilt u de passagiers ook uitzwaaien? Dan kunt u het beste parkeren op Schiphol Visitors Parking voor kort parkeren. Hiervoor volgt u de borden 'Parkeren'.
+
+Parkeerverbod
+Op de vertrek- en aankomstpassage van de luchthaven geldt een parkeerverbod.
+
+Actuele vluchtinformatie
+
+Op de hoogte gehouden worden? Wilt u de actuele gegevens over uw vertrekkende vlucht ontvangen via SMS? Meld u zich dan aan voor Schiphol Travel Update. 
+Passagiers ophalen
+
+Als u alleen even iemand wilt ophalen, kan dat voor de deur. Vanaf de afslag 'Schiphol' (op de A4) volgt u de borden 'Aankomsthal'. U kunt hier even stoppen om bagage in te laden.  U kunt hier niet uw auto parkeren.
+
+Het adres voor uw navigatiesysteem is: "Aankomstpassage, Schiphol"
+
+Passagiers ophalen in de aankomsthal
+Wilt u de passagiers ophalen in de aankomsthal, dan kunt u het beste parkeren op Schiphol Visitors Parking voor kort parkeren. Hiervoor volgt u op Schiphol de borden 'Parkeren'.
+
+Aankomen
+Op de monitoren kunt u zien in welke aankomsthal de passagier arriveert. Tijdens het wachten kunt u genieten van een hapje of een drankje in een van de vele horecagelegenheden of u kunt gezellig nog even winkelen op Schiphol Plaza.
+
+Parkeerverbod
+Op de vertrek- en aankomstpassage van de luchthaven geldt een parkeerverbod.
+
+Op de hoogte gehouden worden?
+Wilt u de actuele gegevens over uw aankomende vlucht ontvangen via SMS? Meld u zich dan aan voor Schiphol Travel Update.  
+Parkeren op Schiphol
+Wanneer u nu voor een korte of lange reis vanaf Schiphol vertrekt, of dat u alleen iemand wilt wegbrengen naar of ophalen van Schiphol, Schiphol Parkeren heeft altijd een parkeergelegenheid die bij uw situatie past. Varierend van een luxe en exclusieve parkeergarage tot het meest voordelige parkeerterrein op Schiphol.
+
+Hieronder kunt u de beschikbaarheid van de verschillende parkeergelegenheden checken en uw reservering maken. Let wel: in verband met de beschikbaarheid van de parkeerplekken kunnen de tarieven per periode verschillend zijn, waarbij altijd geldt: op tijd reserveren is voordeliger parkeren!
+
+
+Parkeerplaats reserveren nu ook met iDEAL!
+Wanneer u zelf degene bent die op reis gaat en dus uw auto voor enige tijd wilt parkeren op car park Schiphol, bekijkt u dan eens de beschikbaarheid door in onderstaand formulier de gegevens van uw reis op te geven. U krijgt vervolgens meteen een overzicht van de beschikbare parkeermogelijkheden op een rij en ziet u meteen wat u bespaart. Heeft u een promotiecode? Vergeet deze dan niet in te vullen om het nog voordeliger te maken!
+
+Voordelig parkeren
+
+Parkeren op Schiphol hoeft niet duur te zijn. Schiphol heeft daar verschillende mogelijkheden voor, waar altijd wel een geschikt parkeerproduct voor u tussen te vinden is. Neemt u maar eens een kijkje tussen de mogelijkheden die er beschikbaar zijn.
+
+Ophalen en wegbrengen
+Bij Schiphol beschikken we over een parkeerprogramma, namelijk Visitor Parking, die speciaal geschikt is voor mensen die niet zelf het vliegtuig op stappen, maar enkel Schiphol bezoeken voor het wegbrengen of ophalen van bekenden. Vanaf 2 euro per half uur kunt u uw auto al parkeren.
+
+Zelf op reis gaan
+Gaat u zelf op reis en wilt u het liefst bij terugkomst meteen weer over uw eigen auto beschikken? Dan kent Schiphol een aantal aantrekkelijke manieren van parkeren voor u. De voordeligste hiervan is het Schiphol Smart Parking, waarbij u al vanaf 5 euro per dag uw auto kunt parkeren. Wees hier echter wel op tijd bij, want vol is vol. Wilt u dit risico liever niet nemen, dan kunt u vanaf 6,50 per dag gebruik maken van Schiphol Park & Travel 3, voor een gegarandeerde parkeerplaats. In beide gevallen parkeert u iets verder van de terminal, waarna u met een busje naar het vliegveld wordt gebracht.
+
+Exclusief parkeren
+
+Wilt u liever geen tijd verspillen en bij wijze van spreken uw auto op de stoep van Schiphol parkeren? Dan kent Schiphol het exclusief parkeren, Schiphol Excellence Parking, waarbij u vooraan bij de dichtstbijzijnde parkeerplaats uw auto kunt parkeren. Geen busjes en niet meer dan 1 minuut lopen totdat u bij de terminal aankomt!
+
+Schiphol Valet Parking
+
+ 
+
+Liever geen tijd verliezen met parkeren? Maak dan gebruik van Schiphol Valet Parking. Schiphol Valet Parking is makkelijk voor reizigers die gesteld zijn op tijdwinst en comfort. U rijdt met uw auto tot direct voor de vertrekhal.
+
+Nadat u heeft geparkeerd kunt u uw autosleutel afgeven bij de Schiphol Valet Parking balie. De balie bevindt zich tussen vertrek 2 & 3. Zo kunt u zonder tijdsverlies direct door naar de gate of incheckbalie. Bij thuiskomst staat uw auto weer voor u klaar.
+
+Uw auto wordt door de medewerkers van Schiphol Valet Parking geparkeerd in een parkeergarage die niet toegankelijk is voor derden. Tijdens uw reis staat uw auto dus veilig en overdekt geparkeerd.
+Schiphol Privium Parking - Altijd voorrang
+
+De zekerheid van een parkeerplaats
+Als Privium Plus lid bent u gewend aan snelheid, comfort en voorrang. Schiphol Privium Parking biedt u deze faciliteiten ook bij het parkeren. Bij een korte reis kunt u parkeren op de speciale Privium parkeerplaatsen op Visitors Parking die zich het dichtst bij de Terminal bevinden.
+Voor een reis langer dan 2 dagen zijn er voor Privium Plus leden speciaal gereserveerde parkeerplaatsen op Park & Travel 3 (P3). Zo verliest u weinig tijd en kunt u snel uw reis vervolgen.
+
+Voordelen van Schiphol Privium Parking
+
+    * Met uw eigen auto comfortabel naar en van Schiphol
+    * Parkeren in de voorste gedeelten van Visitors Parking (P1,P2) en Park & Travel 3 (P3) 
+    * Aantrekkelijke tarieven en voorwaarden
+
+
+
+Hoe werkt het?
+Voor een verblijf van 1-2 dagen volgt u de borden Privium P1 of P2 op Schiphol. Wanneer P1 vol is wordt u automatisch naar P2 geleid. Parkeert u voor langere duur? Volg dan de borden met Long Term Parking (P3) voor de gereserveerde parkeerplaatsen op Schiphol Park & Travel 3.
+Bij aankomst op het parkeerterrein maakt u bij de slagboom gebruik van uw Privium Card. De betaling geschiedt bij terugkomst: bij het verlaten van het parkeerterrein kunt u bij de slagboom bij de uitgang met uw creditcard afrekenen.
+
+Wat kost Schiphol Privium Parking?
+Parkeren in de voorste gedeelten van Visitors Parking (P1 & P2) betaalt u EUR 5,- per uur. Maximaal 32,50 per dag (alle dagen)
+Parkeren in het voorste gedeelte van Park & Travel 3 (P3) betaalt u EUR 55,- voor de eerste 3 dagen en iedere volgende dag EUR 7,-.
+
+
+    * Meer informatie over Privium
+
+
+
+Schiphol Valet Parking
+Liever geen tijd verliezen met parkeren? Maak dan gebruik van het exclusieve Schiphol Valet Parking. U rijdt met uw auto tot direct voor de vertrekhal. Nadat u heeft geparkeerd kunt u uw autosleutel afgeven bij de Schiphol Valet Parking balie. Deze bevindt zich tussen vertrekhal 2 en 3. Terwijl u incheckt, wordt uw auto geparkeerd in een parkeergarage die niet toegankelijk is voor derden. Bij terugkomst van uw reis staat uw auto weer voor u klaar.
+
+Deze service is voor Privium Plus leden blijvend extra voordelig. U krijgt EUR 5,- korting per dag voor de 1e drie dagen. Dit scheelt slechts EUR 2,- per dag ten opzichte van Privium Parking.
+
+
+Tarieven Schiphol Valet Parking 
+	Privium Plus 	Standaard
+1-3 dagen 	EUR 34,50 p.d. 	EUR 39,50 p.d.
+Vanaf 4 dagen 	EUR 29,50 p.d. 	EUR 29,50 p.d.
+
+
+
+    * Reserveer Schiphol Valet Parking
+
+FAQ's Schiphol Park & Travel 3
+1. Wat is Schiphol Park & Travel 3-gereserveerd?
+2. Wat zijn de reserveringsvoorwaarden van Schiphol Park & Travel 3-gereserveerd?
+3. Wat kan ik doen als Schiphol Park & Travel 3-gereserveerd vol is?
+4. Welke boekingsperiodes zijn mogelijk voor Park & Travel 3?
+5. Wanneer kan ik Schiphol Park & Travel 3-gereserveerd reserveren?
+6. Hoe lang van tevoren kan ik Schiphol Park & Travel 3 wijzigen of annuleren?
+7. Waar parkeer ik met een Schiphol Park & Travel 3-gereserveerd reservering?
+8. Hoe kan ik in- en uitrijden met mijn Park & Travel 3-gereserveerd reservering?
+9. Is er een speciaal gedeelte van het parkeerterrein gereserveerd voor Park & Travel 3-gereserveerd?
+10. Hoe is het vervoer geregeld vanaf het parkeerterrein naar de Vertrekhal?
+11. Hoe werkt het als ik van mijn vakantie terugkom?
+12. Is Schiphol Park & Travel 3-gereserveerd ook mogelijk voor kort parkeren op Visitors Parking?
+
+1. Wat is Schiphol Park & Travel 3-gereserveerd?
+Schiphol Park & Travel 3-gereserveerd is een product van de luchthaven Schiphol waarbij u verzekerd bent van een parkeerplaats op Park & Travel 3. Uw creditcard of 6-cijferige inrijcode* is uw toegangskaart tot het parkeerterrein.
+
+*Afhankelijk van de door u geselecteerde inrijmethode
+
+2. Wat zijn de reserveringsvoorwaarden van Schiphol Park & Travel 3-gereserveerd?
+Voorwaarden:
+- Alleen te reserveren met creditcard of met uw bankpas via I-deal
+- Minimaal 1 dag van tevoren reserveren, maximaal 6 maanden van te voren reserveren
+- Reserveren via www.schiphol.nl/parkeren
+- In- en uitrijden parkeerterrein met uw geldige creditcard of 6-cijferige inrijcode*
+
+*Afhankelijk van de door u geselecteerde inrijmethode
+
+3. Wat kan ik doen als Schiphol Park & Travel 3-gereserveerd vol is?
+Schiphol Park & Travel 3-gereserveerd is nooit vol. U heeft gegarandeerd een parkeerplaats op Park & Travel 3.
+
+4. Welke boekingsperiodes zijn mogelijk voor Park & Travel 3?
+Er zijn geen vaste boekingsperiodes bepaald, u kunt al Schiphol Park & Travel 3-gereserveerd boeken vanaf 2 dagen. Als u korter staat kunt u een van de kort parkeer producten reserveren via www.schiphol.nl/parkeren.
+
+5. Wanneer kan ik Schiphol Park & Travel 3-gereserveerd reserveren?
+U dient minimaal een dag voor u wilt parkeren te reserveren. U kunt maximaal 6 maanden van tevoren reserveren.
+
+6. Hoe lang van tevoren kan ik Schiphol Park & Travel 3 wijzigen of annuleren?
+U kunt uw reservering voor Park & Travel 3 wijzigen en annuleren tot 24 uur voor aanvang van de reservering. Wijzigen is kosteloos, voor verlengen van de gereserveerde periode betaalt u voor de extra dag(en). Wanneer u wilt annuleren worden EUR5,00 administratiekosten in rekening gebracht.
+
+7. Waar parkeer ik met een Schiphol Park & Travel 3-gereserveerd reservering?
+Schiphol Park & Travel 3-gereserveerd geldt alleen op Park & Travel 3 (voorheen P3), het parkeerterrein voor lang parkeren van Amsterdam Airport Schiphol.
+
+8. Hoe kan ik in- en uitrijden met mijn Park & Travel 3-gereserveerd reservering?
+Bij het maken van de reservering kunt u een inrijmethode kiezen: inrijden met uw creditcard of met een 6-cijferige inrijcode:
+
+Inrijden met Creditcard
+Heeft u als inrijmethode "Creditcard" gekozen? Volg dan de volgende stappen:
+1. Bij het inrijden steekt u uw creditcard in de kaartlezer bij de slagboom.
+NB: gebruik a.u.b. DEZELFDE creditcard waarmee u gereserveerd heeft om in te rijden.
+2. Werkt uw creditcard niet, neem dan geen parkeerkaartje uit, maar vraag assistentie via de intercom. Zorg er voor dat u de reserveringsbevestiging bij u heeft.
+3. Bij terugkomst hoeft u niet naar de betaalautomaat te gaan, u kunt direct uitrijden met uw creditcard. Staat u langer dan de gereserveerde periode, dan zullen de extra kosten automatisch verrekend worden bij het uitrijden.
+
+Inrijden met 6-cijferige inrijcode
+Heeft u als inrijmethode "Inrijcode" gekozen? Volg dan de volgende stappen:
+1. Toets op de zuil bij de slagboom uw 6-cijferige inrijcode in. Druk op 'OK'.
+2. U ontvangt een speciaal parkeerkaartje uit de kaartgever (uw reservering is herkend). Neem uw kaartje en de slagboom gaat binnen enkele seconden open. Komt er geen parkeerkaartje uit de kaartgever, vraag dan assistentie via de intercom (druk niet op de kaartknop). Zorg er voor dat u de reserveringsbevestiging bij u heeft.
+3. Bij terugkomst hoeft u niet naar de betaalautomaat te gaan, u kunt direct uitrijden na het invoeren van uw parkeerkaartje, mits u binnen de gereserveerde periode uitrijdt. Staat u langer dan de gereserveerde periode, dient u de kosten voor de extra geparkeerde dagen eerst bij een betaalautomaat of aan de kassa te voldoen.
+
+9. Is er een speciaal gedeelte van het parkeerterrein gereserveerd voor Park & Travel 3-gereserveerd?
+Er is geen speciaal gedeelte gereserveerd voor het Smart Parkeren. U kunt uw auto dus overal neerzetten op Park & Travel 3, of in geval van doorverwijzer Park & Travel 4 of 5 (met uitzondering van de laad- en losplaatsen).
+ 
+10. Hoe is het vervoer geregeld vanaf het parkeerterrein naar de Vertrekhal?
+U kunt iedere 10 minuten - 24 uur per dag - gratis met de snelbus van en naar de Vertrekhal. De bus stopt bij de ingang van het parkeerterrein en zet u voor de Vertrekhal af. Bij terugkomst vindt u de bushalte voor de deur van de Aankomsthal.
+
+11. Hoe werkt het als ik van mijn vakantie terugkom?
+U neemt vanuit de Terminal voor de Aankomsthal de pendelbus naar Park & Travel 3 en gaat naar uw auto. U rijdt naar de uitgang en stopt uw creditcard of parkeerkaart (afhankelijk van de door u geselecteerde inrijmethode) in de zuil die bij de uitgang staat. Zie punt 8 voor overige informatie met betrekking tot uitrijden wanneer u gereserveerd heeft.
+
+12. Is Schiphol Park & Travel 3-gereserveerd ook mogelijk voor kort parkeren op Visitors Parking?
+Nee, Schiphol Park & Travel 3-gereserveerd is niet mogelijk voor kort parkeren. Voor producten op Visitors Parking ga naar www.schiphol.nl/parkeren.
+
+ 
+
