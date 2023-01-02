@@ -1,8 +1,9 @@
 import tkinter as tk
 from tkinter import filedialog
+import os
 from predictLang import returnLangSimiliratyResult
 
-page = tk.Tk()
+page = tk.Tk(screenName="Language predictor", baseName="Language predictor", className="Language predictor", useTk=1)
 
 #A function that formats the results of the prediction
 # Path -> String
@@ -13,11 +14,14 @@ def formatResults(filename):
         s += tuple[0] + " : " + str(round(tuple[1],2)) + "\n"
     return s
 
+filename = None
+
 #The title and header of the window
 title = tk.Label(page, text="Language Predictor.",  font=("Helvetica", 16))
 title.place(relx=.5, y = 20,anchor= "center")
 header = tk.Label(page, text="Welcome, please select a file.", font=("Helvetica", 16))
 header.place(relx=.5, y = 50,anchor= "center")
+
 
 page.result = "Here is where the results will be displayed"
 
@@ -26,8 +30,10 @@ page.result = "Here is where the results will be displayed"
 def loadFile():
     filename = filedialog.askopenfilename(title="Select file", filetypes=(("Text files", "*.txt *.doc *.docx *.pdf"), ("All files", "*.*")))
     resultsLbl.config(text = formatResults(filename))
+    file = tk.Label(page, text=os.path.basename(filename), font=("Helvetica", 10))
+    file.place(relx=.5, y = 70,anchor= "center")
 loadBtn = tk.Button(page, text="Load file", command=loadFile)
-loadBtn.place(relx=.5, y = 80,anchor= "e")
+loadBtn.place(relx=.5, y = 90,anchor= "e")
 
 #A help button that explains how to use the program
 def popUp(txt):
@@ -42,7 +48,7 @@ txt = ("Welcome to this simple program made by Omar Shoura.\n " +
         "Current supported languages are: \n" + 
         "English, French, Dutch, German, Croatian, French, Romanian, Spanish")
 helpBtn = tk.Button(page, text="Help", command=lambda: popUp(txt))
-helpBtn.place(relx=.5, y = 80, anchor= "w")
+helpBtn.place(relx=.5, y = 90, anchor= "w")
 
 resultsLbl = tk.Label(page, text=page.result, font=("Helvetica", 14))
 resultsLbl.place(relx=.5, y = 115, anchor= "n")
