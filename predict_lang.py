@@ -4,7 +4,7 @@ import textract
 
 #get the Language trigram frequencies from the training data
 langTrigramDic = {}
-with open('SourceFile.txt', 'r') as f:
+with open('languages.txt', 'r') as f:
     lang = ""
     for line in f:
         line = line[:-1]
