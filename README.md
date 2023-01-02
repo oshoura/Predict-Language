@@ -2,6 +2,9 @@
 
 I built this KNN model to predict a document's language using cosine similarity on its trigram frequency. I then built a simple interface using tkinter to easily upload a document and predict its language.
 
+
+![screenshot](/screenshot.png)
+
 ## Development
 I consider this the very first machine learning project I ever did, and one of the earlier python projects so I didn't yet use common practices. My code wasn't very pythonic but regardless, I built a functioning model and interface that is worth sharing.
 
