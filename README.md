@@ -15,3 +15,8 @@ The reason I chose cosine similarity instead of another distance function is mai
 ## Usage
 Download the repo from github and run `main.py`. Do not change the directory structure.
 That should open up a new window with instructions on how to use the application. Upload a document of your choice and the model will predict it is one of 7 languages: Croatian, Dutch, English, French, German, Spanish, Romanian. It will display the top 3 most likely languages.
+
+## Outcomes
+- I learned how to a KNN model works and how to evaluate different distance functions and when to use each
+- Got more comfortable with python when I was still learning the language
+- Used tkinter for the first time as a way to demo my models
